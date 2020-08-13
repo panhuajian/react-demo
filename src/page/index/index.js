@@ -425,7 +425,7 @@ export default class App extends React.Component{
     // const {valueData, xData} = this.state;
     return(
       <div>
-        <div title="折线图表之一777">
+        <div title="折线图表之一888">
             <ReactEcharts option={this.getMapOption()} theme="Imooc"  style={{height:'800px'}}/>
         </div>
         {/* <div title="折线图表之一">
