@@ -1,0 +1,13 @@
+.scaleBox{
+  width: 1920px;
+  height: 1080px;
+  transform-origin: 0 0;
+  transition: 0.3s;
+  background: #fff;
+  a {
+    color: red;
+    &:hover {
+      color: blue;
+    }
+  }
+}
